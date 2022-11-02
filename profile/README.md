@@ -4,7 +4,7 @@
 
 # Trip Weather
 
-[Deployed Site](heroku link)
+[Deployed Site](https://trip-weather-2022-fe.herokuapp.com)
 
 [Front End Repository](https://github.com/TripWeather/trip_weather_fe)
 
