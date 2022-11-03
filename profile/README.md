@@ -12,7 +12,7 @@
 
 ## Overview
 
-Have you ever planned a road trip and were suddenly faced with having to plan around inclement weather such as a Blizzard or a Hurricane? Or even the pop-up afternoon thunderstorm with a chance of tornados? With <b>Trip Weather</b> we can help you coordinate your trips with weather status for the beginning and end of your trip. You can include stops along the trip that the application can include the weather status for as well. 
+Have you ever planned a road trip and were suddenly faced with having to plan around inclement weather such as a Blizzard or a Hurricane? Or even the pop-up afternoon thunderstorm with a chance of tornadoes? With <b>Trip Weather</b> we can help you coordinate your trips with weather status for the beginning and end of your trip. You can include stops along the trip that the application can include the weather status for as well. 
 
 ## How / Under the hood
 
