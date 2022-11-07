@@ -16,11 +16,13 @@ Have you ever planned a road trip and were suddenly faced with having to plan ar
 
 ## How / Under the hood
 
-We have consumed the the [fill_in_here] API and [fill_in_here] API we take the starting location, the destination, and any added stops to the trip and pull the weather data for each location based on when you are expected to arive at that location. [Future + with exporting and/or sharing trip]
+We have consumed the the [Position Stack API](https://positionstack.com) to convert addresses to Lat/Long to then plug into the [Weather.gov API](https://www.weather.gov/documentation/services-web-api#/), and [MapQuest API](https://developer.mapquest.com/documentation/) for navigation instructions of the trip. We take the starting location, the destination, and any added stops to the trip and pull the weather data for each location based on when you are expected to arive at that location. [Future + with exporting and/or sharing trip]
 
+## If we had unlimited time:
+
+We would add a friend functionality to be able to add others to your planned trips to share itenerary information. We also would love to be able to ping the weather API more frequently with locations throughout the route to give an entire picture of the trip instead of just start and stops.
 
 ## Contributors
-
 
 
 <img src="https://avatars.githubusercontent.com/u/106836658?s=120&v=4" />
