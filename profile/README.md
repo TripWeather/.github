@@ -16,11 +16,11 @@ Have you ever planned a road trip and were suddenly faced with having to plan ar
 
 ## How / Under the hood
 
-We have consumed the the [MapQuest API](https://developer.mapquest.com/documentation/) for navigation instructions of the trip and to convert addresses to Lat/Long to then plug into the [Weather.gov API](https://www.weather.gov/documentation/services-web-api#/) for local weather data. We take the starting location, the destination, and any added stops to the trip and pull the weather data for each location based on when you are expected to arive at that location. [Future + with exporting and/or sharing trip]
+We have consumed the the [MapQuest API](https://developer.mapquest.com/documentation/) for navigation instructions of the trip and to convert addresses to Lat/Long to then plug into the [Weather.gov API](https://www.weather.gov/documentation/services-web-api#/) for local weather data. We take the starting location, the destination and pull the weather data for each location along with providing trip details such as turn by turn instructions, travel distance, total travel time (using current traffic patterns), and 
 
 ## If we had unlimited time:
 
-We would add a friend functionality to be able to add others to your planned trips to share itenerary information. We also would love to be able to ping the weather API more frequently with locations throughout the route to give an entire picture of the trip instead of just start and stops.
+We added functionality to return the given weather data at the time you will be at a given location but ran out of time to implement it. Also added the data pull on the LAT/LONG of each turn during the trip to then pull the weather for to give a comprehensive forecast of the entire trip. We would like to add a friend functionality to be able to add others to your planned trips to share itenerary information. With that we would also add the ability to add the trip to your google calendars and/or export your trip to save for offline use.
 
 ## Contributors
 
